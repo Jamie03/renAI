@@ -32,3 +32,4 @@ files.txt
 game/keys.py
 
 # End of https://www.toptal.com/developers/gitignore/api/renpy
+.vscode/
