@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/renpy
 # Edit at https://www.toptal.com/developers/gitignore?templates=renpy
 
+.DS_Store
+
 ### Renpy ###
 # Don't track content of these folders #
 ########################################
